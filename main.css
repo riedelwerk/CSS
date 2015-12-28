@@ -2,3 +2,7 @@
   color: #5a5a5a;
   font-size: 24px;
 }
+.jumbotron {
+  background-image: url('https://goo.gl/04j7Nn');
+  height: 500px;
+}
